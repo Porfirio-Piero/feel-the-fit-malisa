@@ -1,21 +1,12 @@
 {
-  "name": "feel-the-fit",
+  "name": "feel-the-fit-malisa",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "npx serve .",
+    "start": "npx serve ."
   },
-  "dependencies": {
-    "next": "^14.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "description": "A professional personal training and fitness studio website for Hamilton, NJ.",
-  "main": "script.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "description": "Feel the Fit by MaLisa - Personal Training & Fitness Studio",
+  "author": "OpenClaw",
+  "license": "MIT"
 }
